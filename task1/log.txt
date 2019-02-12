@@ -1,0 +1,11 @@
+commit bc714b907f52ac38f5815e01850391c84911dfee
+Author: g3orge <draw93byxd@gmail.com>
+Date:   Tue Feb 12 13:22:46 2019 +0300
+
+    add status.txt
+
+commit 31cb1b35e4427875d0008fb13520c812680a4ebf
+Author: g3orge <draw93byxd@gmail.com>
+Date:   Tue Feb 12 13:18:43 2019 +0300
+
+    add .gitignore
